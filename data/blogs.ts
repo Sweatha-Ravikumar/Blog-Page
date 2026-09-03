@@ -56,31 +56,18 @@ export const blogs: Blog[] = [
     ],
   },
   {
-    id: 4,
-    title: "Cyber Security",
-    excerpt: "Learn about the importance of cyber security in modern web development.",
-    date: "August 29, 2026",
-    category: "Cyber Security",
-    author: "Tech Team",
-    readTime: "5 min read",
-    content: [
-      "Cyber security is a critical aspect of modern web development. As applications become more complex and interconnected, the risk of security breaches increases.",
-      "Developers must implement robust security measures to protect user data and ensure the integrity of their applications.",
-      "Staying informed about the latest security threats and best practices is essential for maintaining a secure development environment."
-    ]
-  },
-  {
-    id: 5,
+    id:4,
     title: "The Future of Web Development",
-    excerpt: "Explore emerging trends and technologies that are shaping the future of web development.",
+    excerpt:
+      "Explore the trends and technologies that are shaping the future of web development.",
     date: "August 28, 2026",
     category: "Web Development",
     author: "Tech Team",
-    readTime: "6 min read",
+    readTime: "7 min read",
     content: [
-      "The landscape of web development is constantly evolving. New frameworks, tools and methodologies are emerging that promise to make development faster, more efficient and more enjoyable.",
-      "In this article, we'll explore some of the most exciting trends and technologies that are shaping the future of web development.",
-      "From AI-powered development tools to progressive web apps, the possibilities are endless."
-    ]
+      "The web development landscape is constantly evolving, with new technologies and frameworks emerging regularly.",
+      "Some of the key trends include the increased adoption of Jamstack architectures, the rise of server-side rendering, and the growing importance of performance optimization.",
+      "As we look toward the future, we can expect to see more sophisticated tools and techniques that make it easier to build fast, scalable, and maintainable web applications.",
+    ],
   }
 ]
