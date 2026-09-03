@@ -29,7 +29,7 @@ export default function ContactPage() {
             <div>
               <label
                 htmlFor="name"
-                className="mb-2 block text-sm font-medium text-gray-700"
+                className="mb-2 block text-sm font-medium text-black"
               >
                 Name
               </label>
@@ -38,14 +38,14 @@ export default function ContactPage() {
                 id="name"
                 type="text"
                 placeholder="Your name"
-                className="w-full rounded-xl border border-gray-200 px-4 py-3 outline-none transition focus:border-gray-400"
+                className="w-full rounded-xl border border-gray-200 px-4 py-3 outline-none transition focus:border-gray-400 text-black"
               />
             </div>
 
             <div>
               <label
                 htmlFor="email"
-                className="mb-2 block text-sm font-medium text-gray-700"
+                className="mb-2 block text-sm font-medium text-black"
               >
                 Email
               </label>
@@ -54,14 +54,14 @@ export default function ContactPage() {
                 id="email"
                 type="email"
                 placeholder="you@example.com"
-                className="w-full rounded-xl border border-gray-200 px-4 py-3 outline-none transition focus:border-gray-400"
+                className="w-full rounded-xl border border-gray-200 px-4 py-3 outline-none transition focus:border-gray-400 text-black"
               />
             </div>
 
             <div>
               <label
                 htmlFor="message"
-                className="mb-2 block text-sm font-medium text-gray-700"
+                className="mb-2 block text-sm font-medium text-black"
               >
                 Message
               </label>
@@ -70,7 +70,7 @@ export default function ContactPage() {
                 id="message"
                 rows={5}
                 placeholder="Write your message..."
-                className="w-full resize-none rounded-xl border border-gray-200 px-4 py-3 outline-none transition focus:border-gray-400"
+                className="w-full resize-none rounded-xl border border-gray-200 px-4 py-3 outline-none transition focus:border-gray-400 text-black"
               />
             </div>
 
