@@ -55,4 +55,18 @@ export const blogs: Blog[] = [
       "For larger applications, TypeScript can improve maintainability and make collaboration between developers easier.",
     ],
   },
+  {
+    id: 4,
+    title: "Cyber Security",
+    excerpt: "Learn about the importance of cyber security in modern web development.",
+    date: "August 29, 2026",
+    category: "Cyber Security",
+    author: "Tech Team",
+    readTime: "5 min read",
+    content: [
+      "Cyber security is a critical aspect of modern web development. As applications become more complex and interconnected, the risk of security breaches increases.",
+      "Developers must implement robust security measures to protect user data and ensure the integrity of their applications.",
+      "Staying informed about the latest security threats and best practices is essential for maintaining a secure development environment."
+    ]
+  }
 ]
