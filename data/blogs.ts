@@ -69,4 +69,18 @@ export const blogs: Blog[] = [
       "Staying informed about the latest security threats and best practices is essential for maintaining a secure development environment."
     ]
   }
+  {
+    id: 5,
+    title: "The Future of Web Development",
+    excerpt: "Explore emerging trends and technologies that are shaping the future of web development.",
+    date: "August 28, 2026",
+    category: "Web Development",
+    author: "Tech Team",
+    readTime: "6 min read",
+    content: [
+      "The landscape of web development is constantly evolving. New frameworks, tools and methodologies are emerging that promise to make development faster, more efficient and more enjoyable.",
+      "In this article, we'll explore some of the most exciting trends and technologies that are shaping the future of web development.",
+      "From AI-powered development tools to progressive web apps, the possibilities are endless."
+    ]
+  }
 ]
