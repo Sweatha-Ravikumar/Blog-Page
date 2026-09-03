@@ -68,7 +68,7 @@ export const blogs: Blog[] = [
       "Developers must implement robust security measures to protect user data and ensure the integrity of their applications.",
       "Staying informed about the latest security threats and best practices is essential for maintaining a secure development environment."
     ]
-  }
+  },
   {
     id: 5,
     title: "The Future of Web Development",
